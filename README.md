@@ -1,0 +1,3 @@
+# MagCov
+
+A Simple converter.
