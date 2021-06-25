@@ -1,15 +1,15 @@
 # MagCov
 
 ## ApptoAbs
-    `ApptoAbs(apparent_magnitude, distance`)
+    `ApptoAbs(apparent_magnitude, distance)`
     Gives an output of the Absolute magnitude of a star.
     Distance should be in parsecs.
 
 ## AbstoApp
-    `AbstoApp(absolute_magnitude, distance`)
+    `AbstoApp(absolute_magnitude, distance)`
     Gives and output of the Apparent magnitude of a star.
     Distance should be in parsecs.
 
 ## LyrtoPc
-    `LyrtoPc(distance_in_light_years)
+    `LyrtoPc(distance_in_light_years)`
     Gives an output of the distance in parseces.
